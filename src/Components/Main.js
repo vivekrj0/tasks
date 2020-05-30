@@ -5,8 +5,8 @@ class Main extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            value: 'http://www.foxnews.com',
-            url: 'http://www.foxnews.com'
+            value: 'https://www.wikipedia.org/',
+            url: 'https://www.wikipedia.org/'
         };
 
         this.handleChange = this.handleChange.bind(this);
