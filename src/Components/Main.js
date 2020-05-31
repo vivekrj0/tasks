@@ -39,7 +39,7 @@ class Main extends Component {
                         <input type="text" value={this.state.url} onChange={this.handleChangeUrl} className="mr-sm-2" />
                     </Form>
                 </Nav>
-                 <Navbar.Brand href="#home">Logout</Navbar.Brand>
+                 <Navbar.Brand href="/">Logout</Navbar.Brand>
                 </Navbar>
                 <div class="viewbox-left">
                     <iframe src={this.state.value} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" ></iframe>                

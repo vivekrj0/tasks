@@ -102,12 +102,12 @@ body, html, .App, #root, .auth-wrapper {
   position: relative;
   z-index: 1;
   width: 48vw;   
-  height: 700px;
+  height: 800px;
   
 }
 .viewbox-right iframe {  /* the width and height here are your "unshrunken" sizes.  Important bc of the scale variable later. */
   position: relative;
   z-index: 1;
   width: 48vw;   
-  height: 700px;
+  height: 800px;
 }
